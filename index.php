@@ -10,7 +10,7 @@
 <body class="bg-black vh-100">
     <div class="container">
         <div class="row">
-            <div class="col-12">
+            <div class="col-12 p-5">
                 <form action="answer.php" method="GET">
                     <div class="row">
                         <div class="col-6">
